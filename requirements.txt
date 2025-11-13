@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-google-genai
+langchain-community
+faster-whisper
+pytube
+faiss-cpu
+python-dotenv
